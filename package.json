@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "django": "^1.0.0"
+    "django": "^1.0.0",
+    "rest-framework": "^0.2.6"
   }
 }
